@@ -1,0 +1,127 @@
+* {
+  box-sizing: border-box;
+}
+
+/******Colors******/
+.colors {
+  border: 1px solid gray;
+  padding: 10px;
+  margin: 10px;
+}
+
+.colors p {
+  display: inline-block;
+}
+
+.color1 {
+  background-color: #0D1C32;
+  border: 1px solid black;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  height: 100px;
+  width: 150px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.color2 {
+  background-color: #ECF3FF;
+  border: 1px solid black;
+  color: black;
+  padding: 10px;
+  margin: 10px;
+  height: 100px;
+  width: 150px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.color3 {
+  background-color: #627FB0;
+  border: 1px solid black;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  height: 100px;
+  width: 150px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.color4 {
+  background-color: #F5F9FF;
+  border: 1px solid black;
+  color: black;
+  padding: 10px;
+  margin: 10px;
+  height: 100px;
+  width: 150px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.color5{
+  background-color: #60B3BD;
+  border: 1px solid black;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  height: 100px;
+  width: 150px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+/******Fonts******/
+.fonts {
+  border: 1px solid gray;
+  padding: 10px;
+  margin: 10px;
+}
+
+.fonts p {
+  display: inline-block;
+}
+
+.Prata {
+  font-family: 'Prata', serif;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.Lato {
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+/******Text*******/
+.text {
+  border: 1px solid gray;
+  padding: 10px;
+  margin: 10px;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 24px;
+  font-family: 'Prata'; 
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Prata';
+}
+
+p {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Lato';
+}
